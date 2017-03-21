@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:8:22-68
+application
+ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:10:5-23:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha4] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha4/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:15:9-40
+activity#jerome.com.usbcamera.MainActivity
+ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha4] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha4/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/AndroidManifest.xml

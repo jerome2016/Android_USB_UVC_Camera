@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:background="#FF000000"
+    >
+    <jerome.com.usbcamera.CameraView
+		android:id="@+id/camera_view"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+		android:layout_weight="1"/>
+
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		android:layout_gravity="bottom|center_horizontal"
+		android:layout_marginBottom="25dip">
+
+		<ImageButton
+			android:id="@+id/capture_btn"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="5dip"
+			android:layout_marginRight="15dip"
+			android:background="@null"
+			android:src="@drawable/btn_photo" />
+
+		<ImageButton
+			android:id="@+id/record_btn"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="15dip"
+			android:layout_marginRight="5dip"
+			android:background="@null"
+			android:src="@drawable/btn_video" />
+
+	</LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/res/merged/debug/raw/camera_shutter.ogg",
+        "source": "/home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/res/raw/camera_shutter.ogg"
+    },
+    {
+        "merged": "/home/jerome/AndroidStudioProjects/UsbCamera/app/build/intermediates/res/merged/debug/raw/video_record.ogg",
+        "source": "/home/jerome/AndroidStudioProjects/UsbCamera/app/src/main/res/raw/video_record.ogg"
+    }
+]
